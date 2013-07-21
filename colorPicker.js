@@ -1,4 +1,5 @@
-var cp = cp || {};
+var cp = window.cp || {};
+window.cp = cp;
 
 cp.colorpicker = function() {
 
