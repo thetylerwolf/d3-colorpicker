@@ -9,18 +9,10 @@
 
 .tLine {
   stroke-width:1px;
-  stroke:#888;
+  stroke:hsla(0,0%,10%,1);
 }
 
 .colorBarTitle,
 .colorBarValue {
   fill:#c1c1c1;
-}
-
-.colorPicker {
-  /*height:200px;*/
-  width:645px;
-  margin:auto;
-  margin-top:200px;
-  position:relative;
 }
